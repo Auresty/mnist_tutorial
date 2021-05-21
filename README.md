@@ -1,5 +1,5 @@
 # mnist_tutorial
-A tutorial for MNIST handwritten digit classification using sklearn, PyTorch and Keras.
+PyTorch.
 
 # Code structure
 * [`numpy_matplotlib_sklearn.ipynb`](numpy_matplotlib_sklearn.ipynb): for numpy, matplotlib and sklearn.
